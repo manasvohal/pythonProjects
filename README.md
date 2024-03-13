@@ -17,6 +17,5 @@ import pygame
 import random
 import time
 ```
-
 ## Visuals
-
+<img width="302" alt="Screenshot 2023-10-08 at 11 24 34 AM" src="https://github.com/manasvohal/pythonProjects/assets/80433141/95b37252-4526-4d7f-b363-356402066eca">
